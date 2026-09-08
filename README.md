@@ -57,3 +57,5 @@ As políticas abaixo orientam como os itens entram, avançam e saem do sistema, 
 As seis colunas escolhidas refletem etapas com responsáveis e critérios de saída diferentes (desenvolvimento, revisão de código e testes são atividades distintas dentro do time), o que as torna relevantes para a gestão do trabalho — diferente de um quadro genérico, que esconderia essas transições.
 O time decide qual item puxar com base na prioridade registrada em cada cartão (Alta, Média ou Baixa) e no respeito ao limite de WIP da coluna de destino: um novo item só é iniciado quando há espaço disponível, evitando sobrecarga e multitarefa.
 Bloqueios são tratados de forma visível: o cartão recebe uma etiqueta específica e a descrição registra motivo, data e próxima ação, garantindo que o impedimento seja discutido pelo time em vez de ficar escondido até prejudicar o prazo de entrega.
+
+## 8 - Simulação
